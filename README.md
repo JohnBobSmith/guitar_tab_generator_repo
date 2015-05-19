@@ -1,2 +1,3 @@
 # guitar_tab_generator_repo
-Public repository for my Guitar Tab Generator.
+
+Source code will be uploaded soon, once all files are in a good working state.
